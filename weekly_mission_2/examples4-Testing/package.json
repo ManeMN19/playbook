@@ -1,0 +1,12 @@
+{
+  "name": "first_project",
+  "version": "1.0.0",
+  "description": "Testing Example",
+  "main": "main.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/.bin/jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
